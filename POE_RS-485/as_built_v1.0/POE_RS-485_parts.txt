@@ -1,0 +1,20 @@
+Partlist
+
+Exported from POE_RS-485.brd at 5/31/2013 10:22:52 AM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package            Library             Position (inch)       Orientation
+
+C1       100uF          TT2D7              adafruit            (0.2 0.925)           R90
+C2       10uF           E1,8-4             adafruit            (0.975 1.2)           R90
+C3       0.1uF          C025-025X050       adafruit            (1.15 1.25)           R90
+IC1      7805           TO-220-ALT         SparkFun-PowerIC    (0.575 0.875)         R0
+JP1      Arduino        1X05_LOCK_LONGPADS SparkFun-Connectors (1.575 1.025)         R270
+LED1                    LED3MM             led                 (1.375 1.25)          R90
+R1       330R           0204/7             resistor            (1.25 1.4)            R0
+U$1      MAX485DIL      DIL08              SparkFun-DigitalIC  (1.125 0.875)         R90
+U$2      RJ45-8PTH      RJ45-8             SparkFun-Connectors (0.55 0.15)           R0
+U$3      RJ45-8PTH      RJ45-8             SparkFun-Connectors (1.2 0.15)            R0
