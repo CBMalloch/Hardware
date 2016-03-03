@@ -1,0 +1,11 @@
+ESP8266 5V adapter
+Facilitates use of ESP8266 with 5V system
+
+
+v2.0.0 submitted 2015-10-06 20:20
+**** submitted the .zip file ****
+cbm_OSHPark-2layer-Eagle7.2.cam
+
+v1.0.0
+**** submitted the .zip file ****
+cbm_OSHPark-2layer-Eagle7.2.cam
