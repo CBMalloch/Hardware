@@ -1,0 +1,18 @@
+Partlist exported from /Users/chuck/Documents/Develop/eagle/ESP-01_daughter_board/ESP-01_daughter_board.sch at 2018-02-24 10:28 AM
+
+Part Value    Device            Package            Description                                      PROD_ID     SPICEMODEL SPICEPREFIX VALUE 
+.    MCP1825S MCP1703DB         SOT223             250 mA, 16V, Low Quiescent Current LDO Regulator                                          
+C1   0.1uF    CC1206            C1206              CAPACITOR, European symbol                                   NONE       C                 
+C2   0.1uF    CC1206            C1206              CAPACITOR, European symbol                                   NONE       C                 
+JP5           M04LOCK_LONGPADS  1X04_LOCK_LONGPADS Header 4                                                                                  
+JP7           PINHD-2X4         2X04               PIN HEADER                                                                                
+Q1   BSS138   BSS138TRANS-00830 SOT23-3            NMOSFET, Enh Mode                                TRANS-00830                        BSS138
+Q2   BSS138   BSS138TRANS-00830 SOT23-3            NMOSFET, Enh Mode                                TRANS-00830                        BSS138
+R1   1K       R-US_M1206        M1206              RESISTOR, American symbol                                                                 
+R2   1K       R-US_M1206        M1206              RESISTOR, American symbol                                                                 
+R3   10K      RESISTOR1206      1206               Resistor                                                                                  
+R4   10K      RESISTOR1206      1206               Resistor                                                                                  
+R5   10K      RESISTOR1206      1206               Resistor                                                                                  
+R6   10K      RESISTOR1206      1206               Resistor                                                                                  
+R7   1K       R-US_M1206        M1206              RESISTOR, American symbol                                                                 
+R8   1K       R-US_M1206        M1206              RESISTOR, American symbol                                                                 

@@ -1,0 +1,24 @@
+Partlist exported from /Users/chuck/Documents/Develop/eagle/ESP-01_programmer/ESP-01_programmer.sch at 2018-02-24 10:13 AM
+
+Part Value          Device             Package            Description       PROD_ID     VALUE 
+C1   0.1µF          CAP1206            1206               Capacitor                           
+C2   0.1µF          CAP1206            1206               Capacitor                           
+JP1                 M06LOCK_LONGPADS   1X06_LOCK_LONGPADS Header 6                            
+JP2                 M04LOCK_LONGPADS   1X04_LOCK_LONGPADS Header 4                            
+JP3                 PINHD-2X4          2X04               PIN HEADER                          
+Q1   LP0701         MOSFET-PCHANNELSMD SOT23-3            Generic PMOSFET                     
+Q2   BSS138         BSS138TRANS-00830  SOT23-3            NMOSFET, Enh Mode TRANS-00830 BSS138
+Q3   BSS138         BSS138TRANS-00830  SOT23-3            NMOSFET, Enh Mode TRANS-00830 BSS138
+R1   10K            RESISTOR1206       1206               Resistor                            
+R2   10K            RESISTOR1206       1206               Resistor                            
+R3   1K             RESISTOR1206       1206               Resistor                            
+R4   10K            RESISTOR1206       1206               Resistor                            
+R5   10K            RESISTOR1206       1206               Resistor                            
+R6   10K            RESISTOR1206       1206               Resistor                            
+R7   1K             RESISTOR1206       1206               Resistor                            
+R8   220R           RESISTOR1206       1206               Resistor                            
+R10  10K            RESISTOR1206       1206               Resistor                            
+SW-P                TAC_SWITCHPTH      TACTILE-PTH        Momentary Switch                    
+SW-R                TAC_SWITCHPTH      TACTILE-PTH        Momentary Switch                    
+U$16 100R           POT                ALPS_POT                                               
+U1   V_REG_317DPACK V_REG_317DPACK     V-REG_DPACK        Voltage Regulator                   
