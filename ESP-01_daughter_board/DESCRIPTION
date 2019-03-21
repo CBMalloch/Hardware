@@ -1,2 +1,3 @@
 daughter board for ESP8266 - schematic fixed to repair reversed level shifting, but layout only partially fixed.
 Now, in v2.0.1, layout is fixed, and we're going with autorouting
+Board available from OSH Park <https://oshpark.com/shared_projects/3YRXiOWw>
